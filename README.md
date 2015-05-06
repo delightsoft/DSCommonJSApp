@@ -1,5 +1,7 @@
 # Resource Management System (RMS)
 
+*Note:* This is not fully working app. It's just opened part of http://webprofy.delightsoft.ru app.  Most interesting is DSCommon source code located at app/src/dscommon
+
 ### Build
 
 download nodejs from http://nodejs.org/
